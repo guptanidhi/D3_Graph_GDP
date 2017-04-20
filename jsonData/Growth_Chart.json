@@ -1,0 +1,102 @@
+[
+    {
+        "country": "Argentina",
+        "population_Growth": 1370,
+        "purchase_Growth": 131.92999999999995
+    },
+    {
+        "country": "Australia",
+        "population_Growth": 870,
+        "purchase_Growth": 135.85000000000002
+    },
+    {
+        "country": "Brazil",
+        "population_Growth": 4930,
+        "purchase_Growth": 280.0300000000002
+    },
+    {
+        "country": "Canada",
+        "population_Growth": 1130,
+        "purchase_Growth": 164.29999999999995
+    },
+    {
+        "country": "China",
+        "population_Growth": 19850,
+        "purchase_Growth": 3494.8600000000006
+    },
+    {
+        "country": "France",
+        "population_Growth": 930,
+        "purchase_Growth": 158.44000000000005
+    },
+    {
+        "country": "Germany",
+        "population_Growth": -10,
+        "purchase_Growth": 312.17999999999984
+    },
+    {
+        "country": "India",
+        "population_Growth": 48740,
+        "purchase_Growth": 1009.9100000000003
+    },
+    {
+        "country": "Indonesia",
+        "population_Growth": 10310,
+        "purchase_Growth": 280.01
+    },
+    {
+        "country": "Italy",
+        "population_Growth": 660,
+        "purchase_Growth": 36.49000000000001
+    },
+    {
+        "country": "Japan",
+        "population_Growth": -710.0000000000146,
+        "purchase_Growth": 389.0400000000009
+    },
+    {
+        "country": "Mexico",
+        "population_Growth": 3700,
+        "purchase_Growth": 282.1100000000001
+    },
+    {
+        "country": "Russia",
+        "population_Growth": -1460,
+        "purchase_Growth": 399.03999999999996
+    },
+    {
+        "country": "Saudi Arabia",
+        "population_Growth": -630,
+        "purchase_Growth": 115.99000000000001
+    },
+    {
+        "country": "South Africa",
+        "population_Growth": 1820,
+        "purchase_Growth": 80.75999999999999
+    },
+    {
+        "country": "Republic of Korea",
+        "population_Growth": 830,
+        "purchase_Growth": 218.81000000000017
+    },
+    {
+        "country": "Turkey",
+        "population_Growth": 2810,
+        "purchase_Growth": 210.51
+    },
+    {
+        "country": "United Kingdom",
+        "population_Growth": 1500,
+        "purchase_Growth": 167.78999999999996
+    },
+    {
+        "country": "USA",
+        "population_Growth": 7120,
+        "purchase_Growth": 1738.8199999999997
+    },
+    {
+        "country": "European Union",
+        "population_Growth": 3240,
+        "purchase_Growth": 1001.5499999999993
+    }
+]

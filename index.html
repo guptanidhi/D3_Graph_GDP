@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Graph Demo</title>
+	<script src="https://d3js.org/d3.v3.min.js"></script>
+	<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/index.css">	
+</head>
+<body>
+	<h1>GDP & Population Data representation using D3 Graph</h1>
+	<button onclick="renderPopulationData()">Countrywise Population</button>
+	<button onclick="renderGDPData()">Countrywise GDP</button>
+	<button onclick="renderPurchasingData()">Countrywise Purchasing Power</button>
+	<button onclick="renderGrowthData()">Countrywise Population & Purchasing Power Growth</button>
+	<button onclick="renderAggregateData()">Continentwise Population & GDP Aggregate</button>
+	<div id="heading" style="margin:20 100"></div>
+	<div id="graph"></div>
+	<script src="graph.js"></script>
+</body>
+</html>

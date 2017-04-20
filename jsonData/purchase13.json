@@ -1,0 +1,82 @@
+[
+    {
+        "country": "USA",
+        "purchase13": "16237.75"
+    },
+    {
+        "country": "European Union",
+        "purchase13": "16213.64"
+    },
+    {
+        "country": "China",
+        "purchase13": "13623.26"
+    },
+    {
+        "country": "India",
+        "purchase13": "5031.68"
+    },
+    {
+        "country": "Japan",
+        "purchase13": "4778.52"
+    },
+    {
+        "country": "Germany",
+        "purchase13": "3269.56"
+    },
+    {
+        "country": "Russia",
+        "purchase13": "2640.74"
+    },
+    {
+        "country": "Brazil",
+        "purchase13": "2466.57"
+    },
+    {
+        "country": "United Kingdom",
+        "purchase13": "2391.04"
+    },
+    {
+        "country": "France",
+        "purchase13": "2289.92"
+    },
+    {
+        "country": "Mexico",
+        "purchase13": "1848.42"
+    },
+    {
+        "country": "Italy",
+        "purchase13": "1835.66"
+    },
+    {
+        "country": "Republic of Korea",
+        "purchase13": "1687.14"
+    },
+    {
+        "country": "Canada",
+        "purchase13": "1534.94"
+    },
+    {
+        "country": "Indonesia",
+        "purchase13": "1314.66"
+    },
+    {
+        "country": "Turkey",
+        "purchase13": "1181.01"
+    },
+    {
+        "country": "Australia",
+        "purchase13": "1015.94"
+    },
+    {
+        "country": "Argentina",
+        "purchase13": "776.28"
+    },
+    {
+        "country": "Saudi Arabia",
+        "purchase13": "735.82"
+    },
+    {
+        "country": "South Africa",
+        "purchase13": "608.80"
+    }
+]

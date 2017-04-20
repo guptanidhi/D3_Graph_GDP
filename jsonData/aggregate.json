@@ -1,0 +1,32 @@
+[
+    {
+        "CONTINENT": "Africa",
+        "POPULATION": 51.81,
+        "GDP": 375.99
+    },
+    {
+        "CONTINENT": "Asia",
+        "POPULATION": 3128.2899999999995,
+        "GDP": 19945.469999999998
+    },
+    {
+        "CONTINENT": "Australia",
+        "POPULATION": 23.05,
+        "GDP": 1589.12
+    },
+    {
+        "CONTINENT": "Europe",
+        "POPULATION": 411.65,
+        "GDP": 13049.74
+    },
+    {
+        "CONTINENT": "North America",
+        "POPULATION": 468.08000000000004,
+        "GDP": 19356.47
+    },
+    {
+        "CONTINENT": "South America",
+        "POPULATION": 241.37,
+        "GDP": 2955.3599999999997
+    }
+]
